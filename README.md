@@ -104,7 +104,7 @@ Recuerda tener instalado MySQL en tu PC, agregar MySQL a variables de entorno en
 
 puedes revisar con mysql --version
 
-Si utlizar XAMPP para proyectos sobre PHP, como dato interesante puedes tener ambos corriendo sin problemas con Windows con los puertos distintos,
+Si utlizas XAMPP para proyectos sobre PHP, como dato interesante puedes tener ambos corriendo sin problemas con Windows con los puertos distintos,
 
 para XAMPP puerto 3306 y para MySQL Workbench puerto 3308, si eres usuario de Ubuntu puedes tener apache2 instalado pero si tienes XAMPP tienes que detener el proceso
 
@@ -192,7 +192,7 @@ python3 manage.py runserver e igual para mac
 
 ![image](https://github.com/EdwinFlores29/Portolio-Python/assets/46845817/1c79970c-f8cf-4ac3-bae0-e87bcb6b4d74)
 
-El proyecto carga unas imagenes con uso de Bootstrap, claro al clonar no hay recursos multimedia, ya que tendremos que subir los comentarios y imagnes de django-admin
+El proyecto carga unas imagenes con uso de Bootstrap, claro al clonar no hay recursos multimedia, ya que tendremos que subir los comentarios y imagenes de django-admin
 
 puede dar el error al cargar http://127.0.0.1:8000/, intenta con al direccion --> http://127.0.0.1:8000/index/, ya que deje se dejo un ruta mas especifica.
 
