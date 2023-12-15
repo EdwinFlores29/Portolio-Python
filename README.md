@@ -194,7 +194,7 @@ python3 manage.py runserver e igual para mac
 
 El proyecto carga unas imagenes con uso de Bootstrap, claro al clonar no hay recursos multimedia, ya que tendremos que subir los comentarios y imagenes de django-admin
 
-puede dar el error al cargar http://127.0.0.1:8000/, intenta con al direccion --> http://127.0.0.1:8000/index/, ya que deje se dejo un ruta mas especifica.
+puede dar el error al cargar http://127.0.0.1:8000/, intenta con al direccion --> http://127.0.0.1:8000/index/, tiene una ruta especifica.
 
 ![image](https://github.com/EdwinFlores29/Portolio-Python/assets/46845817/1070097c-31fd-493f-9c06-7601e5f248e2)
 
