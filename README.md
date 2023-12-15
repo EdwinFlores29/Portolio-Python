@@ -1,2 +1,2 @@
 # Portolio-Python
- Portolio-Python, Carga Imagenes de la django-admin, tiene templates y uso bootrstrap
+ Portolio-Python, Carga Imagenes con los jobs de admin, tiene templates y uso bootrstrap
